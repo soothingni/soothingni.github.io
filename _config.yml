@@ -58,3 +58,11 @@ plugins:
 #  - jekyll-feed
 
 encoding: utf-8
+
+
+plainwhite:
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
